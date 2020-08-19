@@ -33,7 +33,7 @@ namespace MccPdfLib
                     string Attribute_id = xNode.Attributes[0].InnerText;
 
                     pages_list.Add(converter.ConvertUrl(new System.Uri(xml.SelectSingleNode("//Html_List//Page[@id = '" + Attribute_id + "']//Path").InnerText).AbsoluteUri));                                                       //конвертация из Html в PDFDocument
-                    pages_list[i].Pages[0].Orientation = (PdfPageOrientation)orientation_list.FirstOrDefault(x => x.Value == xml.SelectSingleNode("//Html_List//Page[@id = '" + Attribute_id + "']//Orintation").InnerText).Key; ;  //ориентация
+                    pages_list[i].Pages[0].Orientation = (PdfPageOrientation)orientation_list.FirstOrDefault(x => x.Value == xml.SelectSingleNode("//Html_List//Page[@id = '" + Attribute_id + "']//Orientation").InnerText).Key; ;  //ориентация
                     pages_list[i].AddBookmark(xml.SelectSingleNode("//Html_List//Page[@id = '" + Attribute_id + "']//Bookmark").InnerText, new PdfDestination(pages_list[i].Pages[0]));                                            //Bookmarks
 
                     pdf.Append(pages_list[i]);                          //собираем PDFDocuments в один фаил 

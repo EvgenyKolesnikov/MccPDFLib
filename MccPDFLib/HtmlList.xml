@@ -2,49 +2,50 @@
 <Html_List>
 	<Page id = "1">
 		<Path>C:\Users\Jenya\Desktop\AAA\reports\BackupReport_byCMA.html</Path>
-		<Orintation>Portrait</Orintation>
+		<Orientation>Portrait</Orientation>
 		<Bookmark>BackupReport_byCMA</Bookmark>
 	</Page>
 	
 	<Page id = "2">
 		<Path>C:\Users\Jenya\Desktop\AAA\reports\BackupReport_byStore.html</Path>
-		<Orintation>Portrait</Orintation>
+		<Orientation>Portrait</Orientation>
 		<Bookmark>BackupReport_byStore</Bookmark>
 	</Page>
 	
 	<Page id = "3">
 		<Path>C:\Users\Jenya\Desktop\AAA\reports\CMAReport.html</Path>
-		<Orintation>Portrait</Orintation>
+		<Orientation>Portrait</Orientation>
 		<Bookmark>CMAReport</Bookmark>
 	</Page>
 	
 	<Page id = "4">
 		<Path>C:\Users\Jenya\Desktop\AAA\reports\DANADataLoadCheck.html</Path>
-		<Orintation>Portrait</Orintation>
+		<Orientation>Portrait</Orientation>
 		<Bookmark>DANADataLoadCheck</Bookmark>
-	</Page>
+	
+</Page>
 	
 	<Page id = "5">
 		<Path>C:\Users\Jenya\Desktop\AAA\reports\HourlySalesReport.html</Path>
-		<Orintation>Portrait</Orintation>
+		<Orientation>Portrait</Orientation>
 		<Bookmark>HourlySalesReport</Bookmark>
 	</Page>
 	
 	<Page id = "6">
 		<Path>C:\Users\Jenya\Desktop\AAA\reports\HTSReport.html</Path>
-		<Orintation>Portrait</Orintation>
+		<Orientation>Portrait</Orientation>
 		<Bookmark>HTSReport</Bookmark>
 	</Page>
 	
 	<Page id = "7">
 		<Path>C:\Users\Jenya\Desktop\AAA\reports\MDWDataLoadCheck.html</Path>
-		<Orintation>Portrait</Orintation>
+		<Orientation>Portrait</Orientation>
 		<Bookmark>MDWDataLoadCheck</Bookmark>
 	</Page>
 	
 	<Page id = "8">
 		<Path>C:\Users\Jenya\Desktop\AAA\reports\UnifiedSalesReport.html</Path>
-		<Orintation>Portrait</Orintation>
+		<Orientation>Portrait</Orientation>
 		<Bookmark>UnifiedSalesReport</Bookmark>
 	</Page>
 	
