@@ -1,0 +1,10 @@
+C:\Users\Jenya\Desktop\Progging\C#\PDF\MccPDFLib\MccPDFLib\MccPDFLib\bin\Debug\MccPDFLib.dll
+C:\Users\Jenya\Desktop\Progging\C#\PDF\MccPDFLib\MccPDFLib\MccPDFLib\bin\Debug\MccPDFLib.pdb
+C:\Users\Jenya\Desktop\Progging\C#\PDF\MccPDFLib\MccPDFLib\MccPDFLib\bin\Debug\Select.HtmlToPdf.dll
+C:\Users\Jenya\Desktop\Progging\C#\PDF\MccPDFLib\MccPDFLib\MccPDFLib\bin\Debug\Select.HtmlToPdf.xml
+C:\Users\Jenya\Desktop\Progging\C#\PDF\MccPDFLib\MccPDFLib\MccPDFLib\bin\Debug\Select.Html.dep
+C:\Users\Jenya\Desktop\Progging\C#\PDF\MccPDFLib\MccPDFLib\MccPDFLib\obj\Debug\MccPDFLib.csprojAssemblyReference.cache
+C:\Users\Jenya\Desktop\Progging\C#\PDF\MccPDFLib\MccPDFLib\MccPDFLib\obj\Debug\MccPDFLib.csproj.CoreCompileInputs.cache
+C:\Users\Jenya\Desktop\Progging\C#\PDF\MccPDFLib\MccPDFLib\MccPDFLib\obj\Debug\MccPDFLib.csproj.CopyComplete
+C:\Users\Jenya\Desktop\Progging\C#\PDF\MccPDFLib\MccPDFLib\MccPDFLib\obj\Debug\MccPDFLib.dll
+C:\Users\Jenya\Desktop\Progging\C#\PDF\MccPDFLib\MccPDFLib\MccPDFLib\obj\Debug\MccPDFLib.pdb
